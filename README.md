@@ -5,7 +5,8 @@
 **Exploratory Data Analysis**
 
 **Contribution:** Individual
-**Project Video Link:**https://www.linkedin.com/posts/kartikeyrastogi162_dataanalysis-exploratorydataanalysis-businessanalysis-activity-7217867182683095041-kPm0?utm_source=share&utm_medium=member_desktop
+
+**Project Video Link:** https://www.linkedin.com/posts/kartikeyrastogi162_dataanalysis-exploratorydataanalysis-businessanalysis-activity-7217867182683095041-kPm0?utm_source=share&utm_medium=member_desktop
 
 # Project Summary
 This project involves performing an analysis on the data having around 49000 observations. The objective is to seek-out meaningful insights from this data to provide crucial information to the management and the stakeholders to make decisions on what can be done to expand or improve the business, eventually leading to the growth of the business. This project will identify the patterns that are being formed in these observations and based on those patterns some suggestions can be taken in consideration. This analysis will help not only the guests to make better choices but it will also be helping the hosts, so that they may make the required changes in order to grow their business.
